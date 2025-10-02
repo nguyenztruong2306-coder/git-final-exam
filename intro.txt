@@ -13,3 +13,10 @@ Kỹ năng:
 - Python
 - Git
 - Linux
+
+Kế hoạch học tập:
+- Học Git cơ bản (1 tuần)
+- Luyện merge/resolve conflict
+- Làm dự án nhỏ sử dụng branch
+- Thực hành stash và revert
+- Ôn tập và nộp bài
