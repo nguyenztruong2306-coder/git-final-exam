@@ -1,0 +1,3 @@
+- Git rất hữu ích cho quản lý mã nguồn
+- Git giúp làm việc nhóm hiệu quả
+- Git có nhiều lệnh mạnh mẽ
