@@ -1,0 +1,6 @@
+Tính năng mới:
+- Thêm chức năng tự động tạo template README
+- Hỗ trợ kiểm tra commit message
+- Sinh file changelog tự động
+- Hướng dẫn sử dụng ngắn gọn
+- Tích hợp kiểm thử cơ bản
