@@ -1,3 +1,5 @@
 - Git rất hữu ích cho quản lý mã nguồn
 - Git giúp làm việc nhóm hiệu quả
 - Git có nhiều lệnh mạnh mẽ
+- Học Git giúp hiểu rõ workflow
+- Git hỗ trợ nhiều công cụ CI/CD
